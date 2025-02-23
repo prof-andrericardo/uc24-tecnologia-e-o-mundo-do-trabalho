@@ -93,11 +93,7 @@ Para contribuir com melhorias no repositório:
 
 1. **Faça um Fork** deste repositório.
 
-2. Crie um 
-
-   branch
-
-    para suas alterações:
+2. Crie um branch para suas alterações:
 
    ```bash
    git checkout -b minha-melhoria
