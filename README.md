@@ -111,8 +111,8 @@ Este repositório está sob a licença **MIT**. Consulte o arquivo LICENSE para 
 
 ## 📞 **Contato**
 
-👨‍🏫 **Professor:** André Ricardo
-📩 **E-mail:** andre.ricardo@colegiovictorino.com.br
-🏫 **Instituição:** Colégio Victorino
+- 👨‍🏫 **Professor:** André Ricardo
+- 📩 **E-mail:** andre.ricardo@colegiovictorino.com.br
+- 🏫 **Instituição:** Colégio Victorino
 
 📌 **Última atualização:** 2025
