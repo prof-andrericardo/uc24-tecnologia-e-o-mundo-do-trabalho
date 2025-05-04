@@ -7,19 +7,17 @@
 ![Educação Técnica](https://img.shields.io/badge/Ensino-T%C3%A9cnico-blueviolet?style=flat-square)
 ![Organização Pedagógica](https://img.shields.io/badge/Organiza%C3%A7%C3%A3o-Pedag%C3%B3gica-important?style=flat-square)
 
-
-
 > 📘 **Componente Curricular:** Unidade Curricular 24
 > 🎓 **Série:** 3º ano do Ensino Médio Técnico em Informática
 > ⏳ **Carga Horária Total:** 36 aulas (divididas em 3 trimestres)
 
-------
+---
 
 ## 🎯 Objetivo Geral
 
 Capacitar os estudantes a compreenderem o papel da tecnologia na transformação do mundo do trabalho e no desenvolvimento pessoal, promovendo a ética, a cidadania digital, o protagonismo profissional e a construção de um projeto de vida significativo.
 
-------
+---
 
 ## 📁 Estrutura do Repositório
 
@@ -33,8 +31,8 @@ uc24-tecnologia-e-o-mundo-do-trabalho/
 ├── trimestre-2/
 │   ├── Capítulo 1: Empregos do Futuro e da Economia Digital.md
 │   ├── Capítulo 2: Análise do Mercado de Trabalho Atual.md
-│   ├── Capítulo 3: O que é Projeto de Vida Profissional 
-│   ├── Capítulo 4: Soft Skills no Mundo Tecnológico 
+│   ├── Capítulo 3: O que é Projeto de Vida Profissional
+│   ├── Capítulo 4: Soft Skills no Mundo Tecnológico
 │   ├── Capítulo 5: Automação e Inteligência Artificial
 │   ├── Capítulo 6: Empregos do Futuro e da Economia Digital
 │   ├── Capítulo 7: Análise do Mercado de Trabalho Atual
@@ -47,7 +45,7 @@ uc24-tecnologia-e-o-mundo-do-trabalho/
 └── README.md
 ```
 
-------
+---
 
 ## 📚 Conteúdos Abordados por Trimestre
 
@@ -70,7 +68,7 @@ uc24-tecnologia-e-o-mundo-do-trabalho/
 - Segurança da informação e LGPD
 - Visualização de dados e pensamento crítico
 
-------
+---
 
 ## 🛠️ Como Utilizar este Repositório
 
@@ -82,7 +80,7 @@ uc24-tecnologia-e-o-mundo-do-trabalho/
    - Paginação entre aulas
 3. Os **gabaritos estão disponíveis separadamente** para facilitar a correção.
 
-------
+---
 
 ## 🔗 Links Úteis
 
@@ -91,7 +89,7 @@ uc24-tecnologia-e-o-mundo-do-trabalho/
 - [Guia LGPD para Educação](https://www.gov.br/secretariageral/pt-br/lgpd)
 - [Escola Virtual do Governo (ENAP)](https://www.escolavirtual.gov.br/)
 
-------
+---
 
 ## 👨‍🏫 Público-Alvo
 
@@ -102,14 +100,14 @@ Estudantes do **3º ano do Ensino Médio Técnico em Informática**, com foco em
 - Preparação para o mundo do trabalho
 - Criação de projetos com impacto social
 
-------
+---
 
 ## ✅ Licença
 
 Este conteúdo pode ser utilizado livremente para fins educacionais, desde que citada a fonte:
- **prof-andrericardo / UC24 – Tecnologia e o Mundo do Trabalho**
+**prof-andrericardo / UC24 – Tecnologia e o Mundo do Trabalho**
 
-------
+---
 
 **Organizado por:** Prof. André Ricardo da Silva
 **Orientado por:** Planejamento UC24 e BNCC
