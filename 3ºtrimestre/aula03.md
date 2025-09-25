@@ -227,6 +227,8 @@ Gestão e produtividade são **sistema**, não improviso. Com metas claras, crit
 
 # 🧠 Fixação de Conteúdo
 
+> Inspirado no `Modelo_de_Questoes_Atualizado.md`, com diversidade de formatos.
+
 ### ✅ 1) Dissertativas
 
 1. Compare **Kanban** e **Scrum-lite** para um time pequeno. Em que situações cada abordagem é mais indicada?
@@ -239,14 +241,14 @@ Gestão e produtividade são **sistema**, não improviso. Com metas claras, crit
 1. O **WIP limit** serve para:
 
    - [ ] Aumentar a quantidade de tarefas iniciadas
-   - [ ] Evitar sobrecarga e manter foco
+   - [ ] Evitar sobrecarga e manter foco ✔️
    - [ ] Eliminar a coluna “Revisão”
    - [ ] Definir prioridades por urgência
 
 2. **Lead time** é:
 
    - [ ] Tempo entre começar e terminar a execução
-   - [ ] Tempo entre solicitação e entrega
+   - [ ] Tempo entre solicitação e entrega ✔️
    - [ ] Número de itens concluídos por semana
    - [ ] Tempo total de reuniões no mês
 
@@ -254,7 +256,7 @@ Gestão e produtividade são **sistema**, não improviso. Com metas claras, crit
 
    - [ ] Terão prioridade máxima
    - [ ] Serão entregues no próximo sprint
-   - [ ] Não entram agora no escopo
+   - [ ] Não entram agora no escopo ✔️
    - [ ] São defeitos críticos
 
 ---
@@ -294,7 +296,7 @@ c) Retrabalho alto indica falhas no DoD/qualidade.
 d) OKR alinha metas do ciclo com resultados medidos.
 
 - [ ] F V V V
-- [ ] V F V V
+- [ ] V F V V ✔️
 - [ ] V F F V
 - [ ] F V F V
 
